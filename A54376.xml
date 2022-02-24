@@ -1,0 +1,523 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Epistola poetæ Latini amatoria</title>
+            <author>Perkins, Joseph, b. 1658.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1697</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A54376</idno>
+            <idno type="STC">Wing P1552</idno>
+            <idno type="STC">ESTC R220507</idno>
+            <idno type="EEBO-CITATION">99831906</idno>
+            <idno type="PROQUEST">99831906</idno>
+            <idno type="VID">36373</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A54376)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 36373)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2129:25)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Epistola poetæ Latini amatoria</title>
+                  <author>Perkins, Joseph, b. 1658.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1697?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed at end: Jos. Perkins.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>In verse.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="lat">lat</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Latin poetry --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="lat">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:36373:1"/>
+            <!-- PDF PAGE 59 -->
+            <pb n="1" facs="tcp:36373:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 59 -->
+            <head>EPISTOLA Poetae Latini Amatoria.</head>
+            <lg>
+               <l>PEtlege verſiculos, Charitum Pulcherrima, Noſtros,</l>
+               <l>Tyndaridos titulo digna Puella frui.</l>
+            </lg>
+            <lg>
+               <l>Dum<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> legis, ſenſim praecordia flamma ſubintret,</l>
+               <l>Et repleat vacuum cor generoſus Amor.</l>
+            </lg>
+            <lg>
+               <l>Nam Me Pegaſides non aſpernantur Amantem:</l>
+               <l>Sunt Muſae faciles in mea vota Novem.</l>
+            </lg>
+            <lg>
+               <l>Mille meos <hi>Nymphae</hi> Thalamos petiere venuſtae:</l>
+               <l>Mille <hi>Puellarum</hi> vota tenere potes.</l>
+            </lg>
+            <lg>
+               <l>Nam mihi <hi>Cunctarum</hi> ſubeunt faſtidia, poſtquam</l>
+               <l>Conjudij ſpes eſt, o <hi>Galatea,</hi> tui.</l>
+            </lg>
+            <lg>
+               <l>Jungere Te ſacro ſi Tu dignabere <hi>vati,</hi>
+               </l>
+               <l>Ornabit Thalamos quae<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> 
+                  <hi>Camaena</hi> tuos.</l>
+            </lg>
+            <lg>
+               <l>Orpheae<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> Lyrae reſonabunt fila Canora:</l>
+               <l>Et <hi>Phaebus</hi> docto pollice tanget Ebur.</l>
+            </lg>
+            <lg>
+               <l>Ancillae officium praeſtabit Candida <hi>Clio,</hi>
+               </l>
+               <l>A lecto<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> aderit <hi>Gratia</hi> quae<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> tuo.</l>
+            </lg>
+            <lg>
+               <l>At ne contemnas noſtros, <hi>Amarylli,</hi> Calores,</l>
+               <l>
+                  <hi>Rem</hi> Tibi narrabo protinus ipſe meam.</l>
+            </lg>
+            <lg>
+               <l>Eſt mihi <hi>Praediolum</hi>
+                  <note n="*" place="margin">Bene lo<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>a<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>um &amp; ſ<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>um.</note> 
+                  <hi>Parnaſſi</hi> Collibus altis,</l>
+               <l>Reſpondet veſtris dotibus illa <hi>Domus.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Hic<note n="†" place="margin">Syl<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ſum.</note> virides creſcunt <hi>Hederae, Lauri<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan>
+                  </hi> Decorae,</l>
+               <l>Semper et ingenii<note n="*" place="margin">Bene aqua<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>m.</note> 
+                  <hi>Flumina</hi> clara <hi>meant.</hi>
+               </l>
+            </lg>
+            <pb n="2" facs="tcp:36373:2"/>
+            <!-- PDF PAGE 60 -->
+            <lg>
+               <l>Hinc de longinquo Mundi contemplor honores,</l>
+               <l>Me Juga <hi>Parnaſſi,</hi> me <hi>Paradiſus</hi> habet.</l>
+            </lg>
+            <lg>
+               <l>Tranſitus in <hi>Caelum</hi> brevis hinc, non dura <hi>Catena</hi>
+               </l>
+               <l>Me retinet: volucer <hi>Pegaſus Aſtra</hi> petit.</l>
+            </lg>
+            <lg>
+               <l>Et mihi vicina eſt Artis Regina<note n="(a)" place="margin">Boni Pr<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ximi.</note> 
+                  <hi>Minerva,</hi>
+               </l>
+               <l>Hic Aula eſt <hi>Phaebi, Pieridum<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan>
+                  </hi> domus</l>
+            </lg>
+            <lg>
+               <l>Sunt mecum<note n="(b)" place="margin">Opinum ſodal<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>tium.</note> Comites, belliſſima turba, <hi>Poetae,</hi>
+               </l>
+               <l>Mulſet &amp; Auriculas <hi>Muſica</hi> docta meas.</l>
+            </lg>
+            <lg>
+               <l>Saepe mihi Gratum Comitem ſe praebet <hi>Homerus:</hi>
+               </l>
+               <l>Et mihi <hi>Virgilius</hi> bellica facta canit.</l>
+            </lg>
+            <lg>
+               <l>Oblectat<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> Animum <hi>Satyris Juvenalis</hi> acutis,</l>
+               <l>Et <hi>Scuticis</hi> ſervos corrigit <hi>ille</hi> meos.</l>
+            </lg>
+            <lg>
+               <l>Saepe meos agitas Pulmones <hi>Flacce,</hi> dolenti,</l>
+               <l>Et ſanat <hi>bilem</hi> muſa <hi>Jocoſa</hi> meam.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Herus I eandri<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan>
+                  </hi> canit <hi>Muſaeus</hi> Amores,</l>
+               <l>
+                  <hi>Heſioduſ<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan>
+                  </hi> mihi Carmina <hi>Mira</hi> Canit.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Cuſtodit<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> Maro,</hi> Paſtor<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> 
+                  <hi>Theocritus</hi> Agnos:</l>
+               <l>
+                  <hi>Pythagoras Mores</hi> me docet ipſe bonos.</l>
+            </lg>
+            <lg>
+               <l>Praelia luce carens <hi>Grandaevus</hi> cantat <hi>Homerus,</hi>
+               </l>
+               <l>Et <hi>Naſo</hi> teneri Doctor Amoris erit.</l>
+            </lg>
+            <lg>
+               <l>Et ſtetit ante fores celeri <hi>Caducifer</hi> ala,</l>
+               <l>Dixit &amp;, Haec <hi>Phaebus Laurea</hi> ſerta dedit.</l>
+            </lg>
+            <lg>
+               <l>"Te<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> Domum vocat hic excelſae vertice <hi>Niſae:</hi>
+               </l>
+               <l>"Nam <hi>Vatum</hi> celebrem convocat ille gregem.</l>
+            </lg>
+            <lg>
+               <l>"Vatibus hic vobis <hi>convivia</hi> clara parantur;</l>
+               <l>"Amphora vos veteri <hi>Nectare</hi> plena manet.</l>
+            </lg>
+            <lg>
+               <l>"<hi>
+                     <g ref="char:V">Ʋ</g>nda Caballino</hi> dabitur Tibi <hi>fonte petita,</hi>
+               </l>
+               <l>"In<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> Jugis <hi>Cyrrhae</hi> nocte quietus eris.</l>
+            </lg>
+            <lg>
+               <l>"Inde fluent <hi>verſus,</hi> 
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>poto <hi>Gurgite</hi> ſacro;</l>
+               <l>"Et primo ut vigiles <hi>Ennius</hi> alter eris.</l>
+            </lg>
+            <pb n="3" facs="tcp:36373:2"/>
+            <!-- PDF PAGE 60 -->
+            <lg>
+               <l>"<hi>Ospheus</hi> hic aderit, Cytharae<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> peritus <hi>Arien,</hi>
+               </l>
+               <l>"Saltabunt <hi>Satyri Pieridum<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan>
+                  </hi> Chori.</l>
+            </lg>
+            <lg>
+               <l>Haec <hi>mihi Mercurius</hi> promiſerat, haec ego <hi>v<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>bis</hi>
+               </l>
+               <l>
+                  <hi>Pegaſidum</hi> fueris miſta <hi>Puella</hi> Gregi.</l>
+            </lg>
+            <lg>
+               <l>His liceat ſemper ſocijs colludere <hi>Nymphis:</hi>
+               </l>
+               <l>
+                  <note n="(c)" place="margin">Bride mu<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</note>
+                  <hi>Cultrices</hi> Thalami <hi>Numina Noſtra</hi> tui.</l>
+            </lg>
+            <lg>
+               <l>Hoſpita ſaepe mihi <hi>Clio, Cliuſ<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> Sorores,</hi>
+               </l>
+               <l>Nec temnit noſtram Docta <hi>Minerva</hi> Domum.</l>
+            </lg>
+            <lg>
+               <l>Inviſit <hi>Vatem</hi> nuper Divinus <hi>Apollo,</hi>
+               </l>
+               <l>Nec tempſit noſtrae tecta ſubire <hi>Caſae.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Eſt<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> mihi <hi>Laurus viridis Diadema</hi> Poetae,</l>
+               <l>
+                  <hi>Sceptrum</hi> facundi <hi>virgula</hi> Mercurij.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Parnaſſus</hi> Domus eſt: Potus <hi>Pirenides</hi> undae.</l>
+               <l>
+                  <hi>Pegaſus</hi> &amp; plenus nectare <hi>Bucephalus.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Sum <hi>Rex:</hi> &amp; ſummo <hi>Parnaſſi vertice regno:</hi>
+               </l>
+               <l>Et potior <hi>Solio,</hi> Magne <hi>Tibulle,</hi> tuo.</l>
+            </lg>
+            <lg>
+               <l>Tu conjuncta mihi fies <hi>Regina</hi> Poetae:</l>
+               <l>
+                  <hi>Reginam Cirrhae</hi> dedecus eſſe putas?</l>
+            </lg>
+            <lg>
+               <l>Ex hederis textum cum Te <hi>Diadema Coronel,</hi>
+               </l>
+               <l>
+                  <hi>Invidiam</hi> cunctis inde movere potes.</l>
+            </lg>
+            <lg>
+               <l>Juncta meo lateri <hi>Curru</hi> rapieris eodem:</l>
+               <l>Jungetur veſtris <hi>Pegaſus</hi> ipſe <hi>rotis.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Conjugis Ille meae famam ſuper <hi>Aſtra Poloſ<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan>
+                  </hi>
+               </l>
+               <l>Evehet, &amp; Noſtrae <hi>Palladis</hi> inſtar eris.</l>
+            </lg>
+            <lg>
+               <l>Ut<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> Pater <hi>Phaebus radijs</hi> loca cuncta Coruſcis</l>
+               <l>
+                  <hi>Luſtrat,</hi> &amp; in ſolio <hi>lucida</hi> Regna tenet:</l>
+            </lg>
+            <lg>
+               <l>Sic mea per latas <hi>radiabunt Carmina</hi> terras:</l>
+               <l>Omnia ſunt <hi>ſcriptis</hi> plena futura meis.</l>
+            </lg>
+            <lg>
+               <l>Fama<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> 
+                  <hi>Perkinſe</hi> per ſaecula longa manebit:</l>
+               <l>Et <hi>Solem</hi> &amp; <hi>vatem</hi> finiet una dies.</l>
+            </lg>
+            <pb n="4" facs="tcp:36373:3"/>
+            <!-- PDF PAGE 61 -->
+            <lg>
+               <l>Cum <hi>Phaetonteis</hi> ingens flagrabit Olympus</l>
+               <l>
+                  <hi>Ignibus,</hi> &amp; fient Terra fretum<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> 
+                  <hi>Chaos:</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Carmina <hi>Communi</hi> mea protinus <hi>igne</hi> peribunt:</l>
+               <l>Una <hi>mei</hi> &amp; <hi>Mundi</hi> flamma ſuprema rogi.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Angelici<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> Chori</hi> plorabunt funera Mundi,</l>
+               <l>Et rapient ſaevis Carmina noſtra <hi>focis.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Verſibus &amp; noſtris cum <hi>faex terrena</hi> peribit,</l>
+               <l>
+                  <hi>Particulam ſanctam</hi> ſumma per Aſtra fereut.</l>
+            </lg>
+            <lg>
+               <l>Non <hi>ignes</hi> metuere mei, non <hi>fulmina</hi> verſus:</l>
+               <l>Non tanget lauros <hi>flamma triſulca</hi> meas.</l>
+            </lg>
+            <lg>
+               <l>Non <hi>Saturnus</hi> edax: non duri, <hi>Zoile, Morſus:</hi>
+               </l>
+               <l>Non perdet Verſus invida <hi>lingua</hi> meos.</l>
+            </lg>
+            <lg>
+               <l>Ergo laurigerum noli contemnere <hi>Amantem</hi>
+               </l>
+               <l>O mihi vel <hi>Muſis</hi> Charior una meis.</l>
+            </lg>
+            <closer>
+               <signed>Ex Parnaſſo. <hi>Joſ. Perkins.</hi>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:36373:3"/>
+            <!-- PDF PAGE 61 -->
+         </div>
+      </body>
+   </text>
+</TEI>
